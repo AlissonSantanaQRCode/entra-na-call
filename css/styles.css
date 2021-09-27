@@ -5,6 +5,11 @@ body {
     height: 100vh;
 }
 
+h3 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
 .btn-meet {
     background-color: #fff;
     color: #38427f;
